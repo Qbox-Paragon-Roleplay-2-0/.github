@@ -1,4 +1,4 @@
-# Paragon Roleplay 2.0
+# Paragon Roleplay 3.0
 
 ## Lead Developer - AdamaStark-N7
 
